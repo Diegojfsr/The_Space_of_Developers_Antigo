@@ -51,15 +51,18 @@ Gosto sempre de abordar cada etapa do projeto individualmente e organizar o todo
 
 <ul dir="auto">
   <em>
-  <li>Ideia</li>
-   Eu gosto de utilizar essa etapa para identificar uma dor ou como gosto de dizer, "Um ponto de partida, para iniciar a resolução do problema proposto pelo projeto."
+  <li>Idea</li>
+    Eu gosto de utilizar essa etapa para identificar uma dor ou como gosto de dizer, "Um ponto de partida, para iniciar a resolução do problema proposto pelo projeto."
   <li>Research</li>
-  Utilizo essa etapa para realizar pesquisas, agregar materiais para consultas e preparar as demais atividades, como:<br>
-  Matriz CSD | Benchmarking | Proto-personas
+    Utilizo essa etapa para realizar pesquisas, agregar materiais para consultas e preparar as demais atividades, como: Matriz CSD | Benchmarking | Proto-personas.
   <li>Wireframes</li>
+    Inicio a construção do conjunto de wireframes. Isso facilita a visualização de todo o fluxo construído a partir das etapas anteriores.
   <li>UI Design</li>
+    Nessa etapa, utilizo todo o material organizado, e utilizo o conceito pré-concebido e inicio a construção final das telas do sistema.
   <li>Testing</li>
+    E após a conclusão da etapa anterior, disponibilizo o protótipo de alta fidelidade, para que os usuários possam testar e interagir com o sistema. Podendo assim   receber feedbacks, para possíveis melhorias.
   </em>
+
 </ul>
 
 
