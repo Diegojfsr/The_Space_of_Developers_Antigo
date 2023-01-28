@@ -91,11 +91,14 @@ Gosto de utilizar essa etapa, para organizar a apresentação das telas e de tod
   </em>
 </ul>
 
+<h2>Tipografia & Cores</h2>
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/4-Tipografie%26Cores.jpg)
 
 
-![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/Wireframe.jpg)
+<h2>Wireframes</h2>
+
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/6-Wireframe.jpg)
 
 
 
