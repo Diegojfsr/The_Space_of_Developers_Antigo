@@ -92,6 +92,7 @@ Gosto de utilizar essa etapa, para organizar a apresentação das telas e de tod
 </ul>
 
 
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/4-Tipografie%26Cores.jpg)
 
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/Wireframe.jpg)
