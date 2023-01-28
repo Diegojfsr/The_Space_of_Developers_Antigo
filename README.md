@@ -81,12 +81,8 @@ Gosto de utilizar essa etapa, para organizar a apresentação das telas e de tod
     Tela com a função de cadastro utilizando google, apple ou email e senha; e a função de voltar para tela de login.
   <li>Tela Home</li>
     Tela secundária, acessada a partir do login, essa tela contém as linguagens/atividades que estão sendo executadas em primeiro plano. Uma área para adicionar mais atividades para estudo. Uma área de pesquisa, para buscar por atividades cadastradas. É uma área de configuração, onde é possível alterar para os modos de visualização do sistema.
-
-    
-    
-    
-    
-    
+  <li>Tela de Linguagens</li>
+    Essa tela é acessada a partir da tela home, após o usuário selecionar a atividade que deseja estudar. Nesta tela temos materiais relacionados a linguagem principal, cursos, dicas e claro códigos.
     
   </em>
 </ul>
