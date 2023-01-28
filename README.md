@@ -94,7 +94,8 @@ Gosto de utilizar essa etapa, para organizar a apresentação das telas e de tod
 
 <h3>Estilização</h3>
 É nessa etapa, que começamos a escolha do estilo, cores, fontes, ícones, botões e imagens que será utilizado na interface do sistema.
-Para esse projeto utilizei essa etapa antes da etapa de wireframes, pois já tinha essa etapa bem estabelecida em mente. Porém, algumas vezes gosto de iniciar a estilização após a etapa de wireframe. 
+Para esse projeto utilizei a estilização antes da etapa de wireframes, pois já tinha todo o estilo que iria utilizar bem estabelecida em mente. 
+Porém, algumas vezes gosto de iniciar a estilização após a etapa de wireframe. 
 
 <br>
 
