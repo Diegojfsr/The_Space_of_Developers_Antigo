@@ -46,27 +46,28 @@ fornece total controle sobre toda a plataforma.<br>
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/3-Escopo%20de%20Trabalho.jpg)
 
 <h3>Etapas</h3>
-<em>
-Gosto sempre de abordar cada etapa do projeto individualmente e organizar 
-o todo o processo a medida que as etapas são alcançadas.
-</em>
-<strong>Ideia</strong>  
-<em>
-Eu gosto de utilizar essa etapa para identificar uma dor ou como gosto de dizer, "Um ponto de partida, para iniciar a resolução do problema proposto pelo projeto."
-</em>
+Gosto sempre de abordar cada etapa do projeto individualmente e organizar o todo o processo a medida que as etapas são alcançadas.
+<br>
 
-<strong>Research</strong> 
-<em>
-  É nessa etapa que utilizo para realizar pesquisas, agregar materiais para consultas.
-</em>
+<ul dir="auto">
+  <em>
+  <li>Ideia</li>
+   Eu gosto de utilizar essa etapa para identificar uma dor ou como gosto de dizer, "Um ponto de partida, para iniciar a resolução do problema proposto pelo projeto."
+  <li>Research</li>
+  Utilizo essa etapa para realizar pesquisas, agregar materiais para consultas e preparar as demais atividades, como:<br>
+  Matriz CSD | Benchmarking | Proto-personas
+  <li>Wireframes</li>
+  <li>UI Design</li>
+  <li>Testing</li>
+  </em>
+</ul>
+
 
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/5-Arquitetura.jpg)
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/Wireframe.jpg)
 
-
-sg
 
 
 
