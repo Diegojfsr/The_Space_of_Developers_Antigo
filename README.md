@@ -66,7 +66,7 @@ Eu gosto de utilizar essa etapa para identificar uma dor ou como gosto de dizer,
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/Wireframe.jpg)
 
 
-
+sg
 
 
 
