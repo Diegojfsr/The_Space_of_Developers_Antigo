@@ -92,6 +92,30 @@ Gosto de utilizar essa etapa, para organizar a apresentação das telas e de tod
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/4-Tipografie%26Cores.jpg)
 
 
+<h3>Estilização</h3>
+É nessa etapa, que começamos a escolha do estilo, cores, fontes, ícones, botões e imagens que será utilizado na interface do sistema.
+Para esse projeto utilizei essa etapa antes da etapa de wireframes, pois já tinha essa etapa bem estabelecida em mente. Porém, algumas vezes gosto de iniciar a estilização após a etapa de wireframe. 
+
+<br>
+
+<ul dir="auto">
+  <em>
+  <li>Tipografia</li>
+    Optei por utilizar a família de fontes, Roboto do Google Fonts. Para o sistema essa tipografia ficou visualmente confortável.
+    
+  <li>Cores</li>
+    Aqui, segue a tendência de cores utilizadas por outras plataformas semelhantes, apenas utilizei uma referência de cor disponibilizada pela Adobe Colors.
+
+    
+  </em>
+</ul>
+
+
+
+
+
+
+
 <h2>Wireframes</h2>
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/6-Wireframe.jpg)
