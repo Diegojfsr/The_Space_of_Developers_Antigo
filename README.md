@@ -62,12 +62,37 @@ Gosto sempre de abordar cada etapa do projeto individualmente e organizar o todo
   <li>Testing</li>
     E após a conclusão da etapa anterior, disponibilizo o protótipo de alta fidelidade, para que os usuários possam testar e interagir com o sistema. Podendo assim   receber feedbacks, para possíveis melhorias.
   </em>
+</ul>
 
+
+<h2>Arquitetura do Sistema</h2>
+
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/5-Arquitetura.jpg)
+
+<h3>Organização</h3>
+Gosto de utilizar essa etapa, para organizar a apresentação das telas e de todo o conteúdo mais importante, de forma que facilite a navegação do usuário pelo sistema.
+<br>
+
+<ul dir="auto">
+  <em>
+  <li>Tela de Login</li>
+    Tela inicial, com funções de entrar e cadastrar.
+  <li>Tela de Cadastro</li>
+    Tela com a função de cadastro utilizando google, apple ou email e senha; e a função de voltar para tela de login.
+  <li>Tela Home</li>
+    Tela secundária, acessada a partir do login, essa tela contém as linguagens/atividades que estão sendo executadas em primeiro plano. Uma área para adicionar mais atividades para estudo. Uma área de pesquisa, para buscar por atividades cadastradas. É uma área de configuração, onde é possível alterar para os modos de visualização do sistema.
+
+    
+    
+    
+    
+    
+    
+  </em>
 </ul>
 
 
 
-![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/5-Arquitetura.jpg)
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/Wireframe.jpg)
 
