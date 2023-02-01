@@ -65,6 +65,27 @@ Gosto sempre de abordar cada etapa do projeto individualmente e organizar o todo
 </ul>
 
 
+<h2>Personas</h2>
+
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/7.1-PersonaCarol.jpg)
+
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/7.2-PersonaErick.jpg)
+
+<h3>Protopersonas</h3>
+Criar personas, permite entender melhor para quem estou projetando.<br>
+Criei duas personas com base em uma pesquisa anterior.
+Ao identificar os problemas e necessidades, consegui projetar a melhor experiência de usuário possível.
+<br>
+
+
+
+
+
+
+
+
+
+
 <h2>Arquitetura do Sistema</h2>
 
 ![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/5-Arquitetura.jpg)
