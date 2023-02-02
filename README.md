@@ -78,6 +78,13 @@ Ao identificar os problemas e necessidades, consegui projetar a melhor experiên
 <br>
 
 
+<h2>Matriz CSD</h2>
+
+![](https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/Apresentacao/8-MatrizCSD.jpg)
+
+<h3>Certezas, Suposições e Dúvidas</h3>
+Iniciei meu processo de criação utilizando a Matriz CSD, listando algumas Certezas, Suposições e Dúvidas. Para um melhor entendimento do cenário.
+<br>
 
 
 
