@@ -151,7 +151,27 @@ Porém, algumas vezes gosto de iniciar a estilização após a etapa de wirefram
 
 
 
+<h3>Finalizando</h3>
+Utima etapa, antes de iniciar a prototipação do sistema.
+<br>
 
+<ul dir="auto">
+  <em>
+  <li>Tela de Login</li>
+    Avatar - Imput Usuario - Imput Senha
+    
+  <li>Tela de Cadastro</li>
+    Boton cadastrar com Facebook - Boton cadastrar com Apple - Imput email - Imput senha - link voltar p/login
+    
+  <li>Tela Home</li>
+    Top boton add conteudo - centro com duas colunas de conteudos estudados - Foot com tres botons(Home | Pesquisar | Configurar)
+    
+  <li>Tela de Linguagens</li>
+    Tela1 com varias linguagens ou conteudos para serem estudados.<br>
+    Tela2 com o conteudo em especifico.
+    
+  </em>
+</ul>
 
 
 
